@@ -95,7 +95,7 @@ ul li.checked{
 }
 
 ul li.checked::before{
-    background-image: url(Images/audit.png);
+    background-image: url(Images/check-circle.png);
 }
 
 ul li span {
